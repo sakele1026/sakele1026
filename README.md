@@ -1,6 +1,4 @@
-- Past Projects and Portfolio: 
-    - <a href="https://github.com/sakele1026/Blockchain-overview">My Blockchain History</a>
-    - <a href="https://www.sakele1026.today">My Website</a>
+- <a href="https://www.sakele1026.today">My Website</a>
 ### Fullstack
 <table border="1" align="center">
   <tr>
