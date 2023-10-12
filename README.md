@@ -334,4 +334,4 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&count_private=true">
 
 ## 🔭 Currently working in
-![greatgoat_wide]([https://github.com/microgift/microgift/assets/127183857/20ee6ba9-180e-421a-83bc-0f0a9da6123d](https://github.com/sakele1026/victoryfox-digimonkz-frontend/blob/main/src/Assets/img/Logo-ExpeditionLabs.jpg)https://github.com/sakele1026/victoryfox-digimonkz-frontend/blob/main/src/Assets/img/Teamwork.png)
+![greatgoat_wide](https://github.com/sakele1026/victoryfox-digimonkz-frontend/blob/main/src/Assets/img/Teamwork.png)
