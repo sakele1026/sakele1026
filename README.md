@@ -333,5 +333,7 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Sakele1026&show_icons=true&theme=merko&count_private=true">
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&count_private=true">
 
+---
+
 ### 🔭 Currently working in
 ![greatgoat_wide](https://github.com/sakele1026/victoryfox-digimonkz-frontend/blob/main/src/Assets/img/Teamwork.png)
