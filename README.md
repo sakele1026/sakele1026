@@ -328,7 +328,7 @@
 </div>
 
 ### 🔭 Currently working in
-![greatgoat_wide](https://github.com/sakele1026/victoryfox-digimonkz-frontend/blob/main/src/Assets/img/Teamwork.png)
+![greatgoat_wide](https://github.com/sakele1026/victoryfox-digimonkz-frontend/blob/main/src/Assets/img/back.png)
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sakele1026.Sakele1026" />
 <img align="right" src="https://img.shields.io/github/followers/Sakele1026?label=Follow&style=social" />
